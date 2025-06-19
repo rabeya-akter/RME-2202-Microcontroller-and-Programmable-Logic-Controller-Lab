@@ -13,14 +13,15 @@ This repository contains documentation and results from the experiments conducte
    
 
 3. **Implementing multi-key safety lock for bank lockers using PLC**  
+
    
-4. ** Controlling the direction of rotation of DC motor using PLC**  
+4. **Controlling the direction of rotation of DC motor using PLC**  
    
    
 5. **Controlling the direction of rotation of DC motor with counter using PLC**  
    
   
-6. ** Implementing the mixing mechanism in an industrial mixer using PLC.**  
+6. **Implementing the mixing mechanism in an industrial mixer using PLC.**  
    
 
 
